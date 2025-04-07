@@ -1,0 +1,5 @@
+.env
+*.sql
+mongo.init.js
+nginx.conf
+knnAlgo.py
