@@ -1,0 +1,161 @@
+
+    {       
+        "Name": "Winthrop University",
+        "Chapter Designator": "Epsilon Eta",
+        "Undergrad Enrollment": 3740,
+        "Active": 1,
+        "Fraternities": 2,
+        "Model": 1
+    },
+    {       
+        "Name": "Alabama",
+        "Chapter Designator": "Omicron",
+        "Undergrad Enrollment": 32458,
+        "Active": 1,
+        "Fraternities":40 ,
+        "Model":1 
+    },
+    {       
+        "Name": "Arizona",
+        "Chapter Designator": "Beta Theta",
+        "Undergrad Enrollment": 40407,
+        "Active": 1,
+        "Fraternities": 22,
+        "Model": 1
+    },
+    {       
+        "Name": "University of Arkansas - Fort Smith",
+        "Chapter Designator": "Iota Mu",
+        "Undergrad Enrollment":5335 ,
+        "Active": 1,
+        "Fraternities": 4,
+        "Model": 1
+    },
+    {       
+        "Name": "University of California Davis" ,
+        "Chapter Designator": "Zeta Sigma",
+        "Undergrad Enrollment": 31532,
+        "Active": 1,
+        "Fraternities": 14,
+        "Model": 0
+    },
+    {       
+        "Name": "University of Denver",
+        "Chapter Designator": "Epsilon Chi",
+        "Undergrad Enrollment": 6160,
+        "Active": 1,
+        "Fraternities": 8,
+        "Model": 0
+    },
+    {       
+        "Name": "Quinnipiac University",
+        "Chapter Designator": "Iota Alpha" ,
+        "Undergrad Enrollment": 6073,
+        "Active": 1,
+        "Fraternities": 7,
+        "Model": 0
+    },
+    {       
+        "Name": "University of Delaware",
+        "Chapter Designator": "Theta Nu",
+        "Undergrad Enrollment": 18883,
+        "Active": 1,
+        "Fraternities": 23,
+        "Model": 0
+    },
+    {       
+        "Name": "Florida",
+        "Chapter Designator": "Alpha Epsilon",
+        "Undergrad Enrollment": 41487,
+        "Active": 1,
+        "Fraternities": 34,
+        "Model": 1
+    },
+    {       
+        "Name": "Georgia Tech",
+        "Chapter Designator": "Iota",
+        "Undergrad Enrollment": 19505,
+        "Active": 1,
+        "Fraternities": 31,
+        "Model": 1
+    },
+    {       
+        "Name": "Idaho",
+        "Chapter Designator": "Kappa Iota",
+        "Undergrad Enrollment": 8809,
+        "Active": 1,
+        "Fraternities": 19,
+        "Model": 1
+    },
+    {       
+        "Name": "Illinois",
+        "Chapter Designator": "Upsilon",
+        "Undergrad Enrollment": 34031,
+        "Active": 1,
+        "Fraternities": 31,
+        "Model": 1
+    },
+    {       
+        "Name": "Purdue",
+        "Chapter Designator": "Omega",
+        "Undergrad Enrollment": 24994,
+        "Active": 1,
+        "Fraternities": 30,
+        "Model": 0
+    },
+    {       
+        "Name": "Kansas State",
+        "Chapter Designator": "Delta Chi",
+        "Undergrad Enrollment": 14762,
+        "Active": 1,
+        "Fraternities": 21,
+        "Model": 0
+    },
+    {       
+        "Name": "Kentucky",
+        "Chapter Designator": "Eta Tau",
+        "Undergrad Enrollment": 24366,
+        "Active": 1,
+        "Fraternities": 21,
+        "Model": 0
+    },
+    {       
+        "Name": "Louisiana Tech University" ,
+        "Chapter Designator": "Beta Omicron",
+        "Undergrad Enrollment": 10083 ,
+        "Active": 1,
+        "Fraternities": 10,
+        "Model": 1
+    },    
+    {       
+        "Name": ,
+        "Chapter Designator": ,
+        "Undergrad Enrollment": ,
+        "Active": ,
+        "Fraternities": ,
+        "Model": 
+    },
+    {       
+        "Name": "Northeastern University",
+        "Chapter Designator": "Kappa Chi",
+        "Undergrad Enrollment":16302 ,
+        "Active": 1,
+        "Fraternities": 12,
+        "Model": 1
+    },
+    {       
+        "Name": "Michigan State",
+        "Chapter Designator": "Alpha Theta",
+        "Undergrad Enrollment": 39021,
+        "Active": 1,
+        "Fraternities":28 ,
+        "Model": 1
+    },
+    {       
+        "Name": "Truman State",
+        "Chapter Designator": "Delta Delta",
+        "Undergrad Enrollment": 2920,
+        "Active": 1,
+        "Fraternities": 10,
+        "Model": 1
+    }
