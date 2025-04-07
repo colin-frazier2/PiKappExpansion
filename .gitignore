@@ -3,3 +3,7 @@
 mongo.init.js
 nginx.conf
 knnAlgo.py
+pkpfrontend/node_modules/*
+pkpfrontend/.next/*
+flaskApp/__pycache__/
+flaskApp/.vscode/
