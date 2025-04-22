@@ -19,3 +19,6 @@ NOTE: At this time, the data requried will be in Mongo at startup. The correct c
 
 ## KNN and Expansion
 This demo considers a potential new expansion target. The user inputs the number of IFC fraternities on campus and the undergraduate enrollment (in thousands). The frontend will send that data to the Flask API that will compare this new school with the other schools in the database. The KNN algorithm will then recommend or not recommend expanding to that school based on the five (5) closest schools to this new school in terms of undergraduate enrollment and fraternities on campus. While this is only a two dimensional example (enrollment, fraternities), the idea is to build confidence in the KNN algorithm when more factors are taken into consideration and visual inspection is difficult or impossible. 
+
+The image below shows a graphical exmaple of the process described above.
+![exampleKnn](https://github.com/user-attachments/assets/fd757e50-c973-4499-b436-d22c93c5511f)
