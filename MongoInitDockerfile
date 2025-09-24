@@ -1,0 +1,7 @@
+FROM mongo
+
+COPY ./mongoData/mongo-init/sampleData.json /sampleData.json
+
+ADD ./mongoData/mongo-init/initScript.sh /initScript.sh
+RUN chmod +x /initScript.sh
+CMD ["/initScript.sh"]

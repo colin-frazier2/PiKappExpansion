@@ -16,7 +16,10 @@ app.config.from_object(Config)
 mongo = PyMongo(app)
 
 collection = mongo.db.chapterSchoolCollection
+
 MONGO_DATA= list(collection.find())
+print("MONGO DATA: ")
+print(MONGO_DATA)
 CORS(app)
 
 
@@ -50,8 +53,6 @@ def add_document():
 def get_chapter_data():
 
     items = []
-    if MONGO_DATA is None:
-        MONGO_DATA = list(collection.find())
     for item in MONGO_DATA:
         item['_id'] = str(item['_id'])
         items.append(item)
